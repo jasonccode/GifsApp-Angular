@@ -38,3 +38,5 @@ Añadimos animaciones a la interfaz de usuario utilizando CSS para mejorar la ex
 
 ¡Esperamos que disfrutes explorando la aplicación y aprendiendo sobre estos conceptos clave de Angular!
 
+<img width="200" heigth="200"alt="imagen" src="./src/assets/gifsapp.png">
+
