@@ -1,3 +1,4 @@
+import { SharedModule } from './../shared/shared.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HomePageComponent } from './pages/home/home-page.component';
@@ -7,7 +8,7 @@ import { CardComponent } from './components/card/card.component';
 
 @NgModule({
   declarations: [HomePageComponent, SearchBoxComponent, CardListComponent, CardComponent],
-  imports: [CommonModule],
+  imports: [CommonModule, SharedModule],
   exports: [HomePageComponent],
 })
 export class GifsModule {}
