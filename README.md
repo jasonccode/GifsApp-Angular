@@ -38,5 +38,6 @@ Añadimos animaciones a la interfaz de usuario utilizando CSS para mejorar la ex
 
 ¡Esperamos que disfrutes explorando la aplicación y aprendiendo sobre estos conceptos clave de Angular!
 
-https://github.com/jasonccode/GifsApp-Angular/raw/main/src/assets/gifsapp.png
+
+<img width="1421" alt="gifsapp" src="https://github.com/jasonccode/GifsApp-Angular/assets/105800226/23f41f08-759b-4e3e-8497-7504665f3aa8">
 
